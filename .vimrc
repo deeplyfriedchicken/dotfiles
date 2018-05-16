@@ -5,6 +5,7 @@ call plug#begin('~/.vim/plugged')
     Plug 'tpope/vim-commentary'
     Plug 'tpope/vim-fugitive'
     Plug 'w0rp/ale'
+    Plug 'posva/vim-vue'
 call plug#end()
 filetype plugin indent on
 " show existing tab with 4 spaces width
